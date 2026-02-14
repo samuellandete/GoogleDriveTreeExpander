@@ -25,3 +25,4 @@ Any updates to this privacy policy will be reflected on this page with an update
 ## Contact
 
 If you have any questions about this privacy policy, you can reach out by opening an issue on the extension's support page.
+The source code is available at https://github.com/samuellandete/GoogleDriveTreeExpander with Free Software licence.
